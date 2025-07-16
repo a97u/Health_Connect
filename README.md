@@ -127,10 +127,3 @@ Contributions are welcome! To contribute:
 2. Create a feature branch (`git checkout -b feature/your-feature`)
 3. Commit your changes
 4. Push to your fork and open a Pull Request
-
-Please ensure your code follows the existing style and includes relevant tests.
-
----
-
-## License
-This project is for educational purposes and is not licensed for commercial use. 
