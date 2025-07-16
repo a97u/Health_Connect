@@ -1,6 +1,9 @@
 # HealthConnect
 
-HealthConnect is a modern, secure, and extensible fitness tracking system built with Spring Boot. It empowers users to track and analyze their health metrics—activities, sleep, mood, water intake, and more—while providing robust authentication and a clean RESTful API.
+HealthConnect is a personal health and wellness application that empowers
+users to track various aspects of their health, such as daily activities, sleep patterns, water
+intake, and mood. It aims to provide users with a centralized platform to monitor their
+well-being, visualize trends, and encourage healthier habits.
 
 ---
 
